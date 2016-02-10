@@ -5,11 +5,7 @@
 AppWizard has created this HelloWorldGit application for you.
 
 
-fadsfdsafdsafdsafdsaf
-
-dafdsafdsa
-
-dfadsfdsf
+adsfdsafdsfdfdsfdsfdsafdsafdsaf
 
 
 HelloWorldGit.vcxproj
