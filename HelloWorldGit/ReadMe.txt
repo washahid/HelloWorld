@@ -7,6 +7,9 @@ AppWizard has created this HelloWorldGit application for you.
 
 fadsfdsafdsafdsafdsaf
 
+dafdsafdsa
+
+
 
 HelloWorldGit.vcxproj
     This is the main project file for VC++ projects generated using an Application Wizard.
